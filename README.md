@@ -23,3 +23,13 @@ Place it in the User Home directory here :-
 Then access it from the Fusion 360 Plugin menu
 
 Doesn't work with meshes, only BReps
+
+# Examples 
+
+https://i.imgur.com/fm4Grz6.png
+
+https://i.imgur.com/maqE0Ic.jpg
+
+https://i.imgur.com/XSZQ0sX.jpg
+
+https://i.imgur.com/cyWdtp6.png
