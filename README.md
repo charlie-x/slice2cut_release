@@ -26,10 +26,16 @@ Doesn't work with meshes, only BReps
 
 # Examples 
 
-https://i.imgur.com/fm4Grz6.png
+After slicing
 
-https://i.imgur.com/maqE0Ic.jpg
+![Examples](https://i.imgur.com/maqE0Ic.jpg)
 
-https://i.imgur.com/XSZQ0sX.jpg
+Re-extruding the sliced parts of the body, this gives you an idea of what the laser cut part would look like
 
-https://i.imgur.com/cyWdtp6.png
+![Examples](https://i.imgur.com/XSZQ0sX.jpg)
+
+Exported to a DXF from fusion 360 sketch 'Export DXF' and previewed in Lightburn
+
+![Examples](https://i.imgur.com/fm4Grz6.png)
+
+![Examples](https://i.imgur.com/cyWdtp6.png)
