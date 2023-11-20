@@ -5,7 +5,7 @@ The case matters for name of directory Slice2Cut
 
 # Windows
 
-For windows install the dll and manifest file into :- 
+For Windows install the dll and manifest file into :- 
 
 C:\Users\%USERNAME%\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns\Slice2Cut
 
