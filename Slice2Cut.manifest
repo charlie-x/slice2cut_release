@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"charliex",
+	"description":	{
+		"":	"Creates individual slices of a specified thickness from brep bodies (slicing as in for cnc/laser cutting not as in 3d printing, though you can 3d print the slices!)\t"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"06046806-4294-4768-af4e-f027fcb858a8",
+	"version":	"0.01",
+	"runOnStartup":	false,
+	"sourcewindows":	"Slice2Cut.vcxproj",
+	"sourcemac":	"Slice2Cut.xcodeproj"
+}
