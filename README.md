@@ -17,6 +17,7 @@ Place it in the User Home directory here :-
 
   ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/Slice2Cut
 
+should be a Universal binary "x86_64 arm64"
 
 #  Usage
 
