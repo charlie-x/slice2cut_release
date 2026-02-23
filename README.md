@@ -11,8 +11,6 @@ C:\Users\%USERNAME%\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\AddIns\Slic
 
 # Mac OS
 
-The build isn't signed/notarised so it'll be a hassle to run it on Mac OS, will fix shortly...
-
 Place it in the User Home directory here :-
 
   ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/Slice2Cut
